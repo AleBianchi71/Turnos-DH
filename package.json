@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.2.1",
+    "express": "^4.18.1",
+    "express-generator": "^4.2.0",
+    "nodemon": "^2.0.20"
+  },
+  "name": "dhturnos",
+  "description": "Ejecutar npm i o npm install para instalar las depedencias",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GonzaCze/TurnosDH.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GonzaCze/TurnosDH/issues"
+  },
+  "homepage": "https://github.com/GonzaCze/TurnosDH#readme"
+}
